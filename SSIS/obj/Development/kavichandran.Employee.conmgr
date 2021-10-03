@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="kavichandran.Employee"
+  DTS:DTSID="{3F23E100-A592-4117-A8A0-CAF3F048EE7C}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=kavichandran;Initial Catalog=Employee;Integrated Security=True;Application Name=SSIS-Package3-{3F23E100-A592-4117-A8A0-CAF3F048EE7C}kavichandran.Employee;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
